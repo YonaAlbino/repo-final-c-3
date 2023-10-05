@@ -1,0 +1,18 @@
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Conexion Base de datos\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Conexion Base de datos\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Conexion Base de datos\obj\Debug\Conexion Base de datos.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Conexion Base de datos\obj\Debug\Conexion Base de datos.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Conexion Base de datos\obj\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Conexion Base de datos\obj\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Conexion Base de datos\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Conexion Base de datos\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Conexion Base de datos\obj\Debug\Conexion Base de datos.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Conexion Base de datos\obj\Debug\Conexion Base de datos.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Conexion Base de datos\obj\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Conexion Base de datos\obj\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Conexion Base de datos\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Conexion Base de datos\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Conexion Base de datos\obj\Debug\Conexion Base de datos.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Conexion Base de datos\obj\Debug\Conexion Base de datos.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Conexion Base de datos\obj\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Conexion Base de datos\obj\Debug\Conexion Base de datos.pdb

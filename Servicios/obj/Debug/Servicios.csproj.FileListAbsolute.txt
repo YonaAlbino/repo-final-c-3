@@ -1,0 +1,6 @@
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Servicios\bin\Debug\Servicios.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Servicios\bin\Debug\Servicios.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Servicios\obj\Debug\Servicios.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Servicios\obj\Debug\Servicios.pdb

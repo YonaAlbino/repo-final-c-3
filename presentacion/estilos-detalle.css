@@ -1,0 +1,138 @@
+﻿
+
+body {
+    background-color: #EDEDED;
+    overflow-x:hidden;
+    position:relative;
+    padding-bottom:200px;
+    min-height:100vh;
+}
+
+.ocularBorde{
+    border:none;
+}
+
+.contenedor-general {
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+    .contenedor-general .contenedor-hijo {
+        width: 33%;
+        
+    }
+
+#imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #D9D8D8;
+}
+
+.contenedor-general .contenedor-hijo img {
+    width: 90%;
+    border-radius: 5px;
+}
+
+.contenedor-general .contenedor-hijo .titulo h1 {
+    font-size: 22px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.contenedor-general .contenedor-hijo .precio span {
+    font-size: 36px;
+    display: block;
+    padding-left: 20px;
+    font-weight: 300;
+}
+
+.contenedor-general .contenedor-hijo .precio a {
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.contenedor-general .contenedor-hijo .descripcion p {
+    margin-top: 50px;
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contenedor-general .contenedor-hijo .descripcion ul {
+    padding-left: 40px;
+}
+
+.contenedor-general .contenedor-hijo .descripcion li {
+    padding-bottom: 15px;
+}
+
+#detalles-envio {
+    border: 1px solid #D9D8D8;
+    padding: 20px;
+    border-radius: 5px;
+    height: 550px;
+}
+
+    #detalles-envio a {
+        text-decoration: none;
+    }
+
+
+    #detalles-envio .imagen-camion {
+        color: green;
+        font-weight: 500;
+        margin-bottom: 50px;
+    }
+
+    #detalles-envio .detalle-compra .botones {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        height: 100px;
+        margin: auto;
+    }
+
+    #detalles-envio .detalles-envio .dropdown-item {
+        margin-bottom: 30px;
+        padding-left: 10px;
+    }
+
+    #detalles-envio .detalles-envio .drop-item {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    #detalles-envio .detalle-compra .botones .btn {
+        width: 254px;
+        height: 44px;
+    }
+
+.contenedor-general .contenedor-hijo .detalle-compra .informacion {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:20px;
+}
+
+    .contenedor-general .contenedor-hijo .detalle-compra .informacion a {
+        text-decoration: none;
+        font-weight: 500;
+        color: #4AADFB;
+        font-size: 14px;
+    }
+
+    .contenedor-general .contenedor-hijo .detalle-compra .informacion p {
+        font-size: 14px;
+    }
+
+    .contenedor-footer{
+        position:absolute;
+        bottom:0;
+    }

@@ -1,0 +1,134 @@
+﻿body {
+    background-color: #E5E5E5;
+    overflow-x: hidden;
+    position: relative;
+    padding-bottom: 100px;
+    min-height: 100vh;
+}
+
+
+.container-fluid{
+    padding:0px;
+}
+
+.row .col-12 {
+    margin:auto;
+}
+
+    .row .col-12 .imagen-hero {
+        border-bottom: 10px solid #CAC22B;
+    }
+
+    .row .col-12 img {
+       height:300px;
+       width:100%;
+    }
+
+.row .col-12 {
+    margin-bottom:50px;
+}
+
+.container .row .col-10 {
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.row .col-10 .titulo {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    width: 40%;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 20px;
+}
+
+   
+
+    .row .col-10 .contenedor-general {
+        width: 100%;
+        height: 60vh;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px;
+        background-color: #fff;
+        border-radius: 5px;
+        margin-bottom:50px;
+        box-shadow: 3px 3px 30px;
+    }
+
+.contenedor-general .contenedor-info {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 15px;
+}
+
+    .contenedor-general .contenedor-info .caja-info {
+        margin-bottom: 20px;
+    }
+
+    .contenedor-general .contenedor-info .caja-info-doble{
+        display:flex;
+        justify-content:space-between;
+        margin-bottom:20px;
+    }
+
+    .contenedor-general .contenedor-info .caja-info-doble .doble {
+        width: 48%;
+        
+    }
+
+    .contenedor-general .contenedor-info .boton {
+        display:flex;
+        justify-content:space-around;
+    }
+
+    .contenedor-general .contenedor-info .btn {
+        border: none;
+        width: 120px;
+        background-color: #E9DF1C;
+        color: #000;
+        font-weight: 500;
+    }
+
+    .contenedor-general .contenedor-info .btn-danger {
+        background-color: #FF6E33;
+    }
+
+
+    .contenedor-general .contenedor-imagen {
+        width: 40%;
+        height: 100%;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:space-around;
+        border-left: 1px solid #E5E5E5;
+    }
+
+        .contenedor-general .contenedor-imagen .contenido-texto {
+            text-align: center;
+            width: 90%;
+            height: 20%;
+        }
+
+        .contenedor-general .contenedor-imagen .imagen {
+            width: 70%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+.contenedor-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
+

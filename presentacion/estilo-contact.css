@@ -1,0 +1,222 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;500&display=swap');
+
+body {
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+    position: relative;
+    padding-bottom: 200px;
+    min-height: 100vh;
+}
+
+.campoInfo-doble {
+    padding-bottom: 16px;
+}
+
+.campoInfo {
+    padding-bottom: 16px;
+}
+
+
+.hero {
+    width: 100%;
+    height: 20%;
+    margin-bottom: 60px;
+    border-bottom: 10px solid #A4FF4F;
+}
+
+    .hero h1 {
+        position: absolute;
+        top: 15%;
+        left: 10%;
+        font-size: 64px;
+        font-weight: 400;
+    }
+
+.row .contenedor-formulario {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    margin-bottom: 50px;
+    box-shadow: 3px 3px 20px;
+    border-radius: 5px;
+}
+
+    .row .contenedor-formulario .titulo h1 {
+        font-size: 26px;
+        text-align: left;
+        font-family: 'Heebo', sans-serif;
+        font-weight: 500;
+    }
+
+    .row .contenedor-formulario P {
+        font-weight: 500;
+    }
+
+    .row .contenedor-formulario .titulo {
+        margin-bottom: 30px;
+    }
+
+    .row .contenedor-formulario .circulos {
+        width: 70%;
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 40px;
+    }
+
+        .row .contenedor-formulario .circulos a {
+            padding: 10px;
+            border-radius: 40%;
+            border: 3px solid #D9D8D8;
+            text-decoration: none;
+            color: #000;
+            font-weight: 500;
+            font-size: 12px;
+        }
+
+            .row .contenedor-formulario .circulos a:hover {
+                border: 3px solid #BFD732;
+            }
+
+.contenedor-formulario .campoInfo-doble {
+    display: flex;
+    justify-content: space-between;
+}
+
+    .contenedor-formulario .campoInfo-doble .caja-datos {
+        width: 48%;
+    }
+
+.contenedor-tarjetas {
+    background-color: #F5F6F7;
+    height: 720px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+
+    .contenedor-tarjetas .titulo {
+        width: 100%;
+    }
+
+        .contenedor-tarjetas .titulo p {
+            font-size: 26px;
+            font-family: 'Heebo', sans-serif;
+            padding: 22px;
+            text-align: start;
+            margin-bottom: 0;
+        }
+
+    .contenedor-tarjetas .tarjeta {
+        background-color: #fff;
+        height: 160px;
+        width: 100%;
+        border-radius: 5px;
+        display: flex;
+        box-shadow: 3px 3px 20px;
+    }
+
+        .contenedor-tarjetas .tarjeta .texto {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .contenedor-tarjetas .tarjeta .imagen {
+            height: 100%;
+            width: 50%;
+            text-align: center;
+        }
+
+            .contenedor-tarjetas .tarjeta .imagen img {
+                height: 100%;
+                padding: 10px;
+            }
+
+        .contenedor-tarjetas .tarjeta .texto {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: flex-start;
+            text-decoration: none;
+        }
+
+            .contenedor-tarjetas .tarjeta .texto a {
+                text-decoration: none;
+            }
+
+
+            .contenedor-tarjetas .tarjeta .texto .primero {
+                font-size: 24px;
+                font-family: 'Heebo', sans-serif;
+                font-weight: 500;
+            }
+
+            .contenedor-tarjetas .tarjeta .texto .segundo {
+                font-size: 16px;
+                font-family: 'Heebo', sans-serif;
+                font-weight: 400;
+                color: #747474;
+            }
+
+.contenedor-formulario .boton-enviar {
+    margin-top: 30px;
+}
+
+    .contenedor-formulario .boton-enviar .btn {
+        background-color: #BFD732;
+        border: none;
+        color: #000;
+        font-weight: 500;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+.contenedor-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/*responsive*/
+
+@media only screen and (max-width: 1040px) {
+    .hero h1 {
+       display:none;
+    }
+
+}
+
+@media only screen and (max-width: 890px) {
+
+    .row .contenedor-formulario .titulo h1 {
+        text-align:center;
+    }
+
+    .contenedor-tarjetas  .titulo p{
+      text-align:center;
+    }
+
+    .contenedor-tarjetas .tarjeta {
+     flex-direction:column;
+     align-items:center;
+    }
+
+    .contenedor-tarjetas .tarjeta .texto p{
+        margin:0;
+    }
+    
+}
+
+@media only screen and (max-width: 700px)  {
+    .contenedor-tarjetas{
+        display:none;
+    }
+    
+    .contenedor-formulario{
+        width:200%;
+    }
+}

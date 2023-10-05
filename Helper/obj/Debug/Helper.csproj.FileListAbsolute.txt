@@ -1,0 +1,38 @@
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\obj\Debug\Helper.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\obj\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Helper\obj\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\obj\Debug\Helper.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\obj\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Helper\obj\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\obj\Debug\Helper.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\obj\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Helper\obj\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\obj\Debug\Helper.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\obj\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\obj\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\bin\Debug\Servicios.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Helper\bin\Debug\Servicios.pdb

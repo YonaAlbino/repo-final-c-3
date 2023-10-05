@@ -1,0 +1,201 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Rubik:wght@300;500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F3F3F3;
+}
+
+
+.col-8 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.contenedor-registro {
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+   
+    border-radius: 5px;
+    margin-top: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #ffffff;
+}
+
+.seccion1 {
+    width: 50%;
+    justify-content: space-between;
+    height: 600px;
+}
+
+
+    .contenedor-registro .seccion1 .head .logo {
+        position: relative;
+        left: 0px;
+        top: -40px;
+    }
+
+
+    .contenedor-registro .seccion1 .head .texto h1 {
+        font-size: 24px;
+        margin-bottom: 42px;
+        position: relative;
+        top:-15px;
+        left: -30px;
+        font-weight:400;
+        text-align:center;
+
+    }
+
+.contenedor-registro .seccion1 .head .texto p {
+    position: relative;
+    top: -25px;
+    
+}
+
+
+.contenedor-registro .seccion1 .formulario .txtBox{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    width:95%;
+   
+}
+
+.contenedor-registro .seccion1 .formulario .txtBox .form-control {
+    padding: 6px;
+    height: 36px;
+}
+
+.contenedor-registro .seccion1 .head .formulario p {
+    font-size: 12px;
+    margin:5px;
+    color: #3E3E3E;
+    text-align: center;
+    width: 100%;
+}
+
+.contenedor-registro .seccion1 .formulario .txtBox .nombre {
+    display: inline;
+    width: 47%;
+}
+
+    .contenedor-registro .seccion1 .formulario .txtBox .contraseña {
+        display: inline;
+        width: 47%;
+    }
+
+    .contenedor-registro .seccion1 .formulario .txtBox .email {
+       margin-top: 50px;
+    }
+
+.contenedor-registro .seccion1 .formulario .txtBox .contraseña{
+    margin-top: 85px;
+}
+
+
+.seccion2 {
+    width: 50%;
+    height: 600px;
+    display:flex;
+    align-items:center;
+}
+
+.form-check{
+    margin-top:15px;
+    padding:0px;
+}
+
+.seccion1 .acceder {
+    margin-top: 40px;
+    left:10px;
+    position:relative;
+}
+
+    .seccion1 .acceder a {
+        text-decoration: none;
+        font-size: 14px;
+        margin-right: 10px;
+        font-family: 'Rubik', sans-serif;
+        font-weight: 500;
+    }
+
+    /*responsive*/
+
+@media  screen and (max-width: 1200px) {
+
+    .contenedor-registro .seccion1 .head .logo {
+      display:none;
+    }
+
+
+    .contenedor-registro .seccion1 .head .texto h1 {
+        margin-bottom: 52px;
+        position: relative;
+        top: 5px;
+    
+    }
+
+
+    .contenedor-registro {
+        display: flex;
+        flex-direction:column;
+        height:75%;
+    }
+
+
+        .contenedor-registro .seccion1 .formulario .txtBox .contraseña {
+            margin-top: 45px;
+        }
+
+
+    .seccion1 .acceder .btn {
+      text-align:center;
+    }
+
+    .seccion2 {
+    width: 50%;
+    height: 600px;
+    display:flex;
+    align-items:center;
+}
+
+}
+
+@media  screen and (max-width: 800px)  {
+
+    .contenedor-registro{
+        height:100%;
+    }
+
+    .seccion1 {
+        width: 100%;
+        justify-content: center;
+    }
+
+
+    .contenedor-registro .seccion1 .head .texto {
+        text-align:center;
+        margin:0;
+        padding:0;
+    }
+
+        .contenedor-registro .seccion1 .head .texto h1 {
+            margin: 0;
+            padding: 0;
+            margin-bottom: 30px;
+            position: relative;
+            top: 0px;
+            left: 0px;
+        }
+
+    .seccion2 {
+        width: 0%;
+        height: 0%;
+    }
+
+
+}

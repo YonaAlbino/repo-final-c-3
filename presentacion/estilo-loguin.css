@@ -1,0 +1,180 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+
+.head {
+    width: 100%;
+    height: 86px;
+    background-color: #2196F3;
+    position: relative;
+    
+}
+
+.foto-head {
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+
+.contenedor-loguin {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.caja-loguin {
+    width: 42%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    align-items: center;
+}
+
+.caja-loguin1 {
+    border: 1px solid #CBCACA;
+    border-radius: 5px;
+    width: 50%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    align-items: center;
+    padding: 40px;
+}
+
+.caja-loguin h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #CBCACA;
+}
+
+.caja-loguin p {
+    font-size: 14px;
+    color: #191919;
+    font-weight: 500;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+    .caja-loguin p a {
+        text-decoration: none;
+        color: #AEADAD;
+        padding-bottom: 15px;
+    }
+
+.caja-loguin a {
+    text-decoration: none;
+}
+
+.caja-loguin1 a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.caja-loguin .borde {
+    border-bottom: 1px solid #CBCACA;
+}
+
+.caja-loguin label {
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+}
+
+.caja-loguin input {
+    margin-bottom: 32px;
+}
+
+.caja-loguin1 .botones {
+    width: 90px;
+    color: #AEADAD;
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #AEADAD;
+    border-radius: 5px;
+}
+
+.caja-loguin1 .boton1 {
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+
+.footer {
+    height: 86px;
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+    background-color: antiquewhite;
+    overflow: hidden;
+    background-color: #F5F5F5;
+}
+
+    .footer a {
+        text-decoration: none;
+        color: #212529;
+        margin-right: 5px;
+        font-size: 12px;
+    }
+
+    .footer p {
+        text-decoration: none;
+        display: inline;
+        color: #AEADAD;
+        font-size: 12px;
+    }
+
+.contenedor-footer {
+    position: relative;
+}
+
+
+.footer .contenedor-footer .seccion1 {
+    width: 40%;
+    position: absolute;
+    left: 40px;
+    top: 30px;
+}
+
+.footer .contenedor-footer .seccion2 {
+    width: 40%;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    text-align: right;
+}
+
+/*responsive */
+
+@media screen and (max-width: 1200px) {
+
+    body {
+        overflow: visible;
+    }
+
+    .contenedor-loguin {
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+       
+    }
+
+    .contenedor-loguin .caja-loguin{
+        margin:10px;
+    }
+
+        .contenedor-loguin .caja-loguin1 {
+            margin: 10px;
+        }
+}

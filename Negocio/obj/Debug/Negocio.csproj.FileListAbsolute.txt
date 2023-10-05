@@ -1,0 +1,54 @@
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\obj\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\obj\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Negocio\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\obj\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\Nueva carpeta\TpFinalNivel2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\obj\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Conexion Base de datos.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Helper.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Conexion Base de datos.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Helper.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\obj\Debug\Negocio.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\obj\Debug\Negocio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Servicios.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Negocio\bin\Debug\Servicios.pdb

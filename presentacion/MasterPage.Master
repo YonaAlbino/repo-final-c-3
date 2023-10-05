@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="presentacion.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Mi super tienda web</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link href="estilos-master.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <nav class="navbar navbar-expand-lg" style="background-color: #2196F3;">
+                <div class="container-fluid" style="width: auto">
+                    <a class="navbar-brand" href="default.aspx">
+                        <img src="imagenes/Chanchito.jpg" style="width: 60px; border-radius: 50%;" /></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarScroll">
+                        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Link</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Link
+                                </a>
+                                <ul class="dropdown-menu" style="background-color: #259EFF">
+                                    <li><a class="dropdown-item" href="#">Action</a></li>
+                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="detalle.aspx" class="nav-link ">Detalle</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="contact.aspx" class="nav-link ">Contacto</a>
+                            </li>
+                            <%if ((!Helper.Seguridad.sesionActiva(Session["usuario"])))
+                                { %>
+                            <li class="nav-item">
+                                <a href="registro.aspx" class="nav-link ">Registro</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="loguin.aspx" class="nav-link ">Loguin</a>
+                            </li>
+                            <% }%>
+                            <%else if (Helper.Seguridad.esAdmin(Session["usuario"]))
+                                {%>
+                            <li class="nav-item">
+                                <a href="administracion.aspx" class="nav-link ">Administración</a>
+                            </li>
+                            <% }%>
+                            <li class="nav-item">
+                                <a href="miPerfil.aspx" class="nav-link ">Mi perfil</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="favoritos.aspx" class="nav-link ">Favoritos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="formulario.aspx" class="nav-link ">Formulario</a>
+                            </li>
+                        </ul>
+                        <div class="d-flex" role="search">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" style="width: 500px">
+                            <button class="btn btn-outline-success" type="submit">Search</button>
+                            <%if (Helper.Seguridad.sesionActiva(Session["usuario"]))
+                                { %>
+                            <asp:Button Text="Desconectarse" CssClass="btn btn-success" runat="server" ID="btnDesconectarse" OnClick="btnDesconectarse_Click" />
+                            <asp:Image ImageUrl="" ID="imgAvatar" runat="server" CssClass="img-fluid" style="width:40px; border-radius:50%;"/>
+                            <div class="lblEmailUsuario">
+                                <asp:Label Text="" ID="lblEmailUsuario" runat="server" />
+                            </div>
+                            <% } %>
+                            <%else
+                                { %>
+                            <asp:Button Text="Conectarse" CssClass="btn btn-success" runat="server" ID="btnConectarse" OnClick="btnConectarse_Click" />
+                            <% }%>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+        </div>
+
+        <div class="">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</body>
+</html>

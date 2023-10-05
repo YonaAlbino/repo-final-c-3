@@ -1,0 +1,18 @@
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Dominio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Dominio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Dominio\obj\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\repo github\TPFinalNivel2_Albino\Dominio\obj\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Dominio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Dominio\obj\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\tp final nivel 2\TpFinalNivel2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Dominio\bin\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Dominio\bin\Debug\Dominio.pdb
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Dominio\obj\Debug\Dominio.dll
+C:\Users\yonat\OneDrive\Escritorio\TPFinalNivel3AlbinoYonathan\Dominio\obj\Debug\Dominio.pdb
